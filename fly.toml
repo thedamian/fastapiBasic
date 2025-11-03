@@ -1,0 +1,4 @@
+    # Example fly.toml snippet
+    [[services]]
+      internal_port = 8000 # This should match the port your Python app listens on
+      # ... other service configurations
